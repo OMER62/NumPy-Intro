@@ -2,6 +2,7 @@
 NumPy Intro
 
 Additional Resource:
+
 *https://www.tutorialspoint.com/numpy/numpy_data_types.htm
 
 *https://www.learndatasci.com/tutorials/applied-introduction-to-numpy-python-tutorial/
